@@ -8,7 +8,6 @@ In the uncompressed zip folder (put it where you want installing to be), the INS
                 
                 terminal@AmazonWebScraper-MoreAccurate:
                     
-                    chmod u+x INSTALL.sh
                     ./INSTALL.sh
 
 This will add the directory as a variable and the command source file to your .bashrc script
