@@ -19,3 +19,4 @@ Program depends on:
  
 *** If it doesn't work immediately reload bash shell, needs to resource .bashrc
 
+![alt text](https://github.com/18vmck//AmazonWebScraper-MoreAccurate/blob/main/SampleOutput.jpg?raw=true)
