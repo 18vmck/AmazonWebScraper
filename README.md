@@ -4,10 +4,9 @@ A git command line program that searches Amazon and displays the top five result
 This is to be used with a standard bash terminal, either GitBash on Windows or Terminal on mac
     - The code is executed using a personalized git function 'amazon'
 
-In the uncompressed zip folder (put it where you want installing to be), the INSTALL.sh script is run using the following
+In the uncompressed zip folder (put it where you want installing to be), the INSTALL.sh script is run using the following bash commands:
                 
-                terminal@AmazonWebScraper-MoreAccurate:
-                    
+                    chmod u+x INSTALL.sh   
                     ./INSTALL.sh
 
 This will add the directory as a variable and the command source file to your .bashrc script
