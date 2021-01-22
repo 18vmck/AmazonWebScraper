@@ -18,3 +18,4 @@ Program depends on:
     - Having Python 3.8 upwards
  
 *** If it doesn't work immediately reload bash shell, needs to resource .bashrc
+
