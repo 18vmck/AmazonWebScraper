@@ -17,6 +17,7 @@ Program depends on:
         - Currently existing .bashrc file / .bash_profile file that sources .bashrc
     - Having Python 3.8 upwards
  
-*** If it doesn't work immediately reload bash shell, needs to resource .bashrc
+**If it doesn't work immediately reload bash shell, needs to resource .bashrc**
 
+                              Sample Output
 ![alt text](https://github.com/18vmck//AmazonWebScraper-MoreAccurate/blob/main/SampleOutput.jpg?raw=true)
