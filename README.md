@@ -3,6 +3,7 @@ A git command line program that searches Amazon and displays the top five result
 
 ### [Download for Windows](https://github.com/18vmck/AmazonWebScraper/releases/download/v1.0/AmazonWebScraper.Windows.zip)
 ### [Download for Mac OS](https://github.com/18vmck/AmazonWebScraper-MoreAccurate/releases/download/v1.0/AmazonWebScraper.Mac.zip)
+**If it doesn't work immediately, restart bash shell, needs to resource .bashrc**
 
 This is to be used with a standard bash terminal, either GitBash on Windows or Terminal on mac
     - The code is executed using a personalized git function 'amazon'
@@ -21,7 +22,7 @@ Program depends on:
         - Currently existing .bashrc file / .bash_profile file that sources .bashrc
     - Having Python 3.8 upwards
  
-**If it doesn't work immediately reload bash shell, needs to resource .bashrc**
+
 
 ## Sample Output
 ![alt text](https://github.com/18vmck//AmazonWebScraper-MoreAccurate/blob/main/SampleOutput.jpg?raw=true)
