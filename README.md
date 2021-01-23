@@ -1,8 +1,8 @@
 # Amazon Web Scraper
 A git command line program that searches Amazon and displays the top five results based on a formula for best result and similarity to search query.
 
-### [                   Download for Windows](https://github.com/18vmck/AmazonWebScraper/releases/download/v1.0/AmazonWebScraper.Windows.zip)
-### [                   Download for Mac](https://github.com/18vmck/AmazonWebScraper-MoreAccurate/releases/download/v1.0/AmazonWebScraper.Mac.zip)
+### [Download for Windows](https://github.com/18vmck/AmazonWebScraper/releases/download/v1.0/AmazonWebScraper.Windows.zip)
+### [Download for Mac](https://github.com/18vmck/AmazonWebScraper-MoreAccurate/releases/download/v1.0/AmazonWebScraper.Mac.zip)
 
 This is to be used with a standard bash terminal, either GitBash on Windows or Terminal on mac
     - The code is executed using a personalized git function 'amazon'
