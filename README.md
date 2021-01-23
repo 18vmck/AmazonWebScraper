@@ -17,7 +17,9 @@ In the uncompressed zip folder (put it where you want installing to be), the INS
                   
 This will add the directory as a variable and the *.command.sh* source file to your .bashrc script, this can be found in the *AmazonWebScraper(OS)/python-code/resources* directory
 
+-
 **If it doesn't work immediately, restart bash shell, needs to resource .bashrc**
+- 
 
 ### Requirements
 ***( - Having bash
