@@ -19,11 +19,12 @@ This will add the directory as a variable and the *.command.sh* source file to y
 
 **If it doesn't work immediately, restart bash shell, needs to resource .bashrc**
 
-Program depends on:
+### Requirements
+**Program depends on:
     - Having bash
     - Currently existing .bashrc file / .bash_profile file that sources .bashrc
     - Having Python 3.8 upwards
- 
+ **
 
 
 ## Sample Output:
