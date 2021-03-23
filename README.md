@@ -25,5 +25,5 @@ This will add the directory as a variable and the *.command.sh* source file to y
     - Having Python 3.8 upwards)***
 
 
-## Sample Output:
+## Preview Output:
 ![alt text](https://github.com/18vmck//AmazonWebScraper-MoreAccurate/blob/main/SampleOutput.jpg?raw=true)
