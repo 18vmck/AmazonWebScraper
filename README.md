@@ -8,7 +8,7 @@ A bash command line program that searches Amazon and displays the top five resul
 This is to be used with a standard bash terminal, either GitBash on Windows or Terminal on mac
     - The code is executed using a personalized bash function 'amazon'
 ## Installation:
-In the uncompressed zip folder (put it where you want installing to be), the INSTALL.sh script is run using the following bash commands:
+In the uncompressed zip folder (put it where you want installing to be) directory in command line, the INSTALL.sh script is run using the following bash commands:
                 
                 bash@AmazonWebScraper(OS):
                    
@@ -17,7 +17,7 @@ In the uncompressed zip folder (put it where you want installing to be), the INS
                   
 This will add the directory as a variable and the *.command.sh* source file to your .bashrc script, this can be found in the *AmazonWebScraper(OS)/python-code/resources* directory
 
-**If it doesn't work immediately, restart bash shell, needs to resource .bashrc**
+**If it doesn't work immediately, restart bash shell, needs to re-source .bashrc**
 
 ### Requirements:
 ***( - Having bash
